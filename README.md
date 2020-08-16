@@ -1,0 +1,1 @@
+# dummy-svelte-project-with-alias-example
